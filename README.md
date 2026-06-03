@@ -34,22 +34,6 @@ Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e acess
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeGil12&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGil12&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
-
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
