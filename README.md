@@ -1,19 +1,26 @@
 <div align="center">
 
-# Guilherme Gil
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Guilherme%20Gil&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=20" />
 
-**Desenvolvedor Front-End**
+</div>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-gil-371a1523a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeGil12)
+![Votuporanga · SP](https://img.shields.io/badge/📍_Votuporanga,_SP-333?style=for-the-badge)
 
 </div>
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e acessíveis. Apaixonado por transformar ideias em experiências digitais funcionais e bem estruturadas.
+Sou estudante de desenvolvimento e estagiário na área de **IoT**, com foco em construir uma carreira sólida como **desenvolvedor Front-End**. Baseado em Votuporanga, SP, venho desenvolvendo projetos práticos que combinam design e funcionalidade — de aplicações web com React e TypeScript a sistemas de reconhecimento de LIBRAS com Machine Learning.
+
+Acredito que bom código é aquele que resolve problemas reais, e é isso que me motiva a continuar aprendendo e evoluindo a cada projeto.
+
+> *"De estagiário IoT a dev Front-End — cada projeto é um passo a mais."*
 
 ---
 
@@ -41,12 +48,21 @@ Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e acess
 | [Quintal Burguer](https://github.com/GuilhermeGil12/quintalburguer-97956851) | Aplicação web para restaurante/lanchonete | TypeScript, React |
 | [Kanban App](https://github.com/GuilhermeGil12/kanban-app) | Gerenciador de tarefas estilo Kanban | TypeScript, React |
 | [Gestão de Frota](https://github.com/GuilhermeGil12/Reposit-rio-reserva-gestao-frota) | Sistema de reserva e gestão de frota | JavaScript |
-| [LIBRAS PDI](https://github.com/GuilhermeGil12/libras-pdi) | Reconhecimento do alfabeto em LIBRAS com ML | Python, MediaPipe |
+| [LIBRAS PDI](https://github.com/GuilhermeGil12/libras-pdi) | Reconhecimento do alfabeto em LIBRAS em tempo real com ML | Python, MediaPipe |
+
+---
+
+## 🎯 Atualmente
+
+- 🏢 Estagiando na área de **IoT**
+- 📚 Estudando e me aprofundando em **React** e **TypeScript**
+- 🎯 Objetivo: ingressar no mercado como **desenvolvedor Front-End**
+- 🔨 Sempre construindo algo novo
 
 ---
 
 <div align="center">
 
-*Sempre em busca de novos desafios e oportunidades de crescimento.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 
 </div>
