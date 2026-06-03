@@ -38,8 +38,13 @@ Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e acess
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGil12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGil12&layout=compact&theme=github_dark&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=GuilhermeGil12&theme=github-dark-blue&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGil12&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
 
 </div>
 
