@@ -18,10 +18,6 @@
 
 Sou estudante de desenvolvimento e estagiário na área de **IoT**, com foco em construir uma carreira sólida como **desenvolvedor Front-End**. Baseado em Votuporanga, SP, venho desenvolvendo projetos práticos que combinam design e funcionalidade — de aplicações web com React e TypeScript a sistemas de reconhecimento de LIBRAS com Machine Learning.
 
-Acredito que bom código é aquele que resolve problemas reais, e é isso que me motiva a continuar aprendendo e evoluindo a cada projeto.
-
-> *"De estagiário IoT a dev Front-End — cada projeto é um passo a mais."*
-
 ---
 
 ## 🛠 Tecnologias & Ferramentas
